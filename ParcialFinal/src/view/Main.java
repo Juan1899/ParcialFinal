@@ -12,6 +12,7 @@ public class Main extends PApplet{
 	
 	public void settings() {
 		
+		size(1000,700); 
 	}
 	
 	public void setup() {
@@ -20,6 +21,7 @@ public class Main extends PApplet{
 	
 	public void draw() {
 		
+		background(255); 
 	}
 	
 	
